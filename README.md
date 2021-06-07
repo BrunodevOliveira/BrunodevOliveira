@@ -9,7 +9,7 @@
 
 <h2 align="center">Pode me encontrar por algum desses links👇</h2>
  <p align="center">
- <a href="brunodevoliveira@gmail.com">
+ <a href="mailto:brunodevoliveira@gmail.com">
     <img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail_logo" height="30" width="30">
   </a>
   
