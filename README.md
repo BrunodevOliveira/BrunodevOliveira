@@ -1,4 +1,4 @@
-<h1> Seja muito bem vindo ao meu perfil 🖖 </h1>
+<h1> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" alt="Bem-vindo_gif"> Seja muito bem vindo ao meu perfil 🖖 </h1>
 <br>
 <p>Meu nome é Bruno, sou estudante de Front-End e, nas horas vagas, de Análise de Desenvolvimento de Sistemas.</p>
 
