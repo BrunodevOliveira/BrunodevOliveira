@@ -1,5 +1,16 @@
-### Hi there 👋
+## Seja muito bem vindo ao meu perfil 🖖
+<br>
+<p>Meu nome é Bruno, sou estudante de Front-End e, nas horas vagas, de Análise de Desenvolvimento de Sistemas.</p>
 
+- 🔭 Atualmente foco meus estudos em HTML, CSS3 e JavaScript.
+- 🌱 Busco aprender muito e colaborar com o que posso em projetos Open Source.
+- 🤓 No momento procurando novas oportunidades para o meu desenvolvimento como programador.
+- 👾 Entusiasta da tecnologia e de inovações em software, apaixonado por séries, filmes e animes.
+
+<h2 align="center">Pode me encontrar por algum desses links👇</h2>
+  <a href="brunofevoliveira@gmail.com">
+    <img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail_logo" height="30" width="30">
+  </a>
 <!--
 **BrunodevOliveira/BrunodevOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
