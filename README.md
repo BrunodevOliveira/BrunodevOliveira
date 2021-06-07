@@ -15,7 +15,8 @@
   
   </p>
   <br>
-  (/github-contribution-grid-snake.svg)
+  <img src="/github-contribution-grid-snake.svg" alt="Bem-vindo_gif">
+  
 <!--
 **BrunodevOliveira/BrunodevOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
