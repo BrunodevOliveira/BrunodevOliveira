@@ -14,8 +14,8 @@
   </a>
   
   </p>
-  ---
-  (github-contribution-grid-snake.svg?raw=true)
+  <br>
+  (github-contribution-grid-snake.svg)
 <!--
 **BrunodevOliveira/BrunodevOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
