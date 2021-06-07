@@ -1,4 +1,4 @@
-## Seja muito bem vindo ao meu perfil 🖖
+<h1> Seja muito bem vindo ao meu perfil 🖖 </h1>
 <br>
 <p>Meu nome é Bruno, sou estudante de Front-End e, nas horas vagas, de Análise de Desenvolvimento de Sistemas.</p>
 
@@ -8,9 +8,12 @@
 - 👾 Entusiasta da tecnologia e de inovações em software, apaixonado por séries, filmes e animes.
 
 <h2 align="center">Pode me encontrar por algum desses links👇</h2>
-  <a href="brunofevoliveira@gmail.com">
+ <p align="center">
+ <a href="brunodevoliveira@gmail.com">
     <img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail_logo" height="30" width="30">
   </a>
+  
+  </p>
 <!--
 **BrunodevOliveira/BrunodevOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
