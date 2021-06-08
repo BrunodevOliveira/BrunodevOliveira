@@ -12,7 +12,9 @@
  <a href="mailto:brunodevoliveira@gmail.com">
     <img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail_logo" height="30" width="30">
   </a>
-  
+   <a href="https://www.linkedin.com/in/brunodevoliveira/">
+    <img src="https://img2.gratispng.com/20180718/qhg/kisspng-computer-icons-linkedin-desktop-wallpaper-clip-art-linkedin-logo-png-5b4fbe28109252.0320487615319526800679.jpg" alt="Linkedin_logo" height="30" width="30">
+  </a>
   </p>
   <br>
   <img src="/github-contribution-grid-snake.svg" alt="Bem-vindo_gif">
