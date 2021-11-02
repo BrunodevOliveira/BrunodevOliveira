@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente foco meus estudos em HTML, CSS3 e JavaScript.
 - 🌱 Busco aprender muito e colaborar com o que posso em projetos Open Source.
-- 📚 Você pode acompanhar meu desenvolvimento [clicando aqui](https://brunodevoliveira.github.io/projeto-site/)
 - 🤓 No momento procurando novas oportunidades para o meu desenvolvimento como programador.
 - 👾 Entusiasta da tecnologia e de inovações em software, apaixonado por séries, filmes e animes.
 
