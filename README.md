@@ -25,10 +25,10 @@
 <h2 >Pode me encontrar por algum desses links👇</h2>
  <p align="center">
  <a href="mailto:brunodevoliveira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/brunodevoliveira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
    <a href="https://www.linkedin.com/in/brunodevoliveira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/BrunodevOliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   </p>
   <br>
